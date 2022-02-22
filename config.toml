@@ -1,0 +1,52 @@
+baseURL = "https://www.howarddierking.com/"
+languageCode = "en-us"
+title = "howarddierking.com"
+theme = "hugo-theme-cleanwhite"
+
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true  #what is this??
+paginate = 5 #frontpage pagination
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+  scoped_search = true
+
+  header_image = "/images/graph-bkgrnd-1250436.jpg"
+  SEOTitle = "Howard Dierking's Blog"
+  description = ""
+  keyword = "Howard Dierking, REST, Web API, Software Development, Semantic Web, Linked Data"
+  slogan = ""
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Sorry, can't find it :shrug:"
+  omit_categories = false
+
+  # Sidebar settings
+  about_me = true
+  sidebar_about_description = "I’m into a bit of everything. Some might say that makes me attention-deficit - I like to think it gives me the ability to see things from more angles. I’m a huge technology enthusiast, and while I've worked for some pretty large tech companies, my interests are pretty broad. The opinions here are mine alone."
+  sidebar_avatar = "/images/Lewis_Robinson.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 2
+
+
+  [params.social]
+  rss            = true 
+  twitter       = "https://twitter.com/howard_dierking"
+  linkedin       = "https://www.linkedin.com/in/howarddierking/"
+  stackoverflow  = "https://stackoverflow.com/users/958104/howard-dierking"
+  github         = "https://github.com/howarddierking"
+   
+  [[params.addtional_menus]]
+  title =  "RESUME"
+  href =  "https://github.com/howarddierking/cv/raw/master/resume.pdf"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
