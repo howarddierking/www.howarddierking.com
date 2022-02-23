@@ -17,7 +17,7 @@
             <form action="https://www.google.com/search" class="search-form" id="searchform" method="get">    
                 <fieldset>
                   <input id="q" name="as_q" type="text" value="">
-                  <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL | relLangURL }}">
+                  <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL | absURL }}">
                   <button type="submit">Go</button>
                 </fieldset>
               </form>
