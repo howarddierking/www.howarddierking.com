@@ -14,9 +14,10 @@ home = ["HTML", "RSS"]
 [params]
   scoped_search = true
 
-  header_image = "/images/graph-bkgrnd-1250436.jpg"
+  site_thumbnail = "images/HD-logo-RGB-reversed-1000p.png"
+  header_image = "images/graph-bkgrnd-1250436.jpg"
   SEOTitle = "Howard Dierking's Blog"
-  description = ""
+  description = "Home for my thoughts, experiments, and occasional rants"
   keyword = "Howard Dierking, REST, Web API, Software Development, Semantic Web, Linked Data"
   slogan = ""
 

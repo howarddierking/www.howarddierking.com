@@ -7,6 +7,11 @@
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="og:type" content="article">
 
+    {{ if and (.IsHome) (.Site.Params.site_thumbnail )}}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.site_thumbnail }}">
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.site_thumbnail }}" />
+    {{ end }}
+
     {{ if .Params.thumbnail }}
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
