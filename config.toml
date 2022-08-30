@@ -6,7 +6,7 @@ theme = "hugo-theme-cleanwhite"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true  #what is this??
-paginate = 5 #frontpage pagination
+paginate = 10 #frontpage pagination
 
 [outputs]
 home = ["HTML", "RSS"]

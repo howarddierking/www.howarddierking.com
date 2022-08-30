@@ -1,7 +1,6 @@
 name: Deploy Hugo site to firestore
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: [$default-branch]
 
