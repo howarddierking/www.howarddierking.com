@@ -2,7 +2,8 @@ name: Deploy Hugo site to firestore
 
 on:
   push:
-    branches: [$default-branch]
+    branches: 
+      - 'main'
 
 # Default to bash
 defaults:
