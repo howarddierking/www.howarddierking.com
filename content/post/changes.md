@@ -4,10 +4,11 @@ date: 2019-04-13
 author: "Howard"
 draft: false
 description: "I'm going to break from the usual work-related topics to talk about a few major changes that are afoot with me and my family."
-image: "/images/family-ranch.jpg"
 tags: ["family", "personal"]
 URL: "/2019/04/13/changes/"
 ---
+
+![Family](/images/family-ranch.jpg)
 
 (I've been sitting on writing this post for a while now because there have been quite a few different pices of the puzzle all up in the air and I've been waiting for at least a few of them to land. I now have enough clarity to go ahead with sharing.)
 
