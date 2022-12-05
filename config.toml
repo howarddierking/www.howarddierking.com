@@ -43,7 +43,7 @@ home = ["HTML", "RSS"]
    
   [[params.addtional_menus]]
   title =  "RESUME"
-  href =  "https://github.com/howarddierking/cv/raw/master/resume.pdf"
+  href =  "/resume-howarddierking.pdf"
 
 [markup]
   [markup.tableOfContents]
