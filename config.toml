@@ -36,7 +36,7 @@ home = ["HTML", "RSS"]
 
   [params.social]
   rss            = true 
-  twitter       = "https://twitter.com/howard_dierking"
+  # twitter       = "https://twitter.com/howard_dierking"
   linkedin       = "https://www.linkedin.com/in/howarddierking/"
   stackoverflow  = "https://stackoverflow.com/users/958104/howard-dierking"
   github         = "https://github.com/howarddierking"
