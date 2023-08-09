@@ -1,0 +1,44 @@
+---
+title: "What is an Executive?"
+date: 2023-08-10
+author: "Howard"
+draft: true
+description: "An executive is not a level - it's a unique role with its own types of challenges and requiring its own set of skills. Leaders ignore that to their own and everyone else's peril."
+image: ""
+tags: ["leadership"]
+URL: "/2023/08/10/what-is-an-executive/"
+---
+
+If you're at all like me, you have on occasion scanned upwards on the proverbial organizational chart and muttered something to the effect of, "those good-for-nothing idiots have no clue what they're doing." I get it. A large chunk of my career has been spent in the trenches of executing technology projects within large companies where there has been a good bit of distance between where I sat and the top of that pyramid. As my career has progressed, however, I've moved up that org chart and as a result been able to see those top roles - the executive roles - up close. Those experiences have left me with this one key takeaway:
+
+**An executive is not a level - it's a unique role with its own types of challenges and requiring its own set of skills.**
+
+Seeing this took me quite a bit longer than I would like to admit. When you're a passionate developer, it's easy to look at the entire company along with the leadership and quip, "if the company were run by developers, we would be so much better off." Another such complaint that I've arrogantly made (thankfully when I was much younger) went something like this: "If we just focused on building an awesome product (translation: awesome code/architecture/etc.) we wouldn't need to have all of these other functions because customers would just naturally **have** to have our amazing software!"
+
+Any of you ever thought/said something like this? Does it make you cringe as hard as it makes me when I remember those times in my career?
+
+Also, while I'm picking on developers here, I've heard the same sentiments expressed by folks in other disciplines, including product, design, operations, sales, marketing, etc. It's natural to believe that your hard-earned skills in solving a particular type of problem can be generalized to solve any number of problems, regardless of domain. 
+
+Completely natural, and also completely wrong.
+
+So if an executive is a distinct role and not a really really really senior developer, product manager, sales person, etc., then how is the role defined. Let's define the role by analogy using [a description of the human brain's executive function](https://developingchild.harvard.edu/resources/what-is-executive-function-and-how-does-it-relate-to-child-development/) courtesy of our friends over at Harvard:
+
+> Being able to focus, hold, and work with information in mind, filter distractions, and switch gears is like having an air traffic control system at a busy airport to manage the arrivals and departures of dozens of planes on multiple runways. In the brain, this air traffic control mechanism is called executive function.
+
+I like this comparison as it aligns nicely with my approach towards management in general, which is to manage the I/O rather than the algorithm. For example, a development team has inputs such as a feature specification, performance constraints, and possibly a delivery commitment (yes, we all hate that last one, but sometimes time is the invariant in the tradeoff discussions, and it is an equally reasonable input). The team takes those inputs and transforms them into a set of outputs - most often working software at a point in time. A good manager focuses his or her attention on ensuring that inputs are clear, that the team is shielded from non-input noise, and that they are unblocked and empowered to transform inputs to outputs in a manner best-suited for the particular mix of individuals on the team. The manager also monitors outputs to ensure that the team is delivering what is expected and work with the team and external stakeholders in the event of any required course corrections. The measure of managerial success is a team that can execute transformations calmly and consistently without the need for heroic death marches or the mythology of "10x developers". 
+
+Different levels of an organization perform different types of transformations, and therefore require different skills of a leader. For example, a front-line development manager's experience may look similar to the above description as he or she focuses on transforming specifications into features. A divisional leader should be focused on guiding the transformation of a product strategy into product releases (or potentially, a product portfolio). At the very top, an executive should be focused on guiding the transformation of customer and market needs and opportunities into a growing, sustainable business. In a high-functioning organization, every individual and team is able to execute its respective transformations with minimal friction - the result being a predictable stream of value to customers, partners, and employees. 
+
+Unfortunately, most organizations struggle to get to this place of maturity. Why?
+
+From what I've seen over the last several years, the answer lies in the problem statement: "maturity". Unlike writing code, the skills required to build high-functioning organizations and [actual] growing businesses are not those that can cultivated through books and leetcode. They require a non-trivial amount of time, effort, mistakes, self-reflection, and coaching to develop. Historically, those kinds of growth opportunities have been provided by larger companies who have existed through multiple cycles of markets and economies. In my view, even the most inept Fortune 100 CEO is a walking treasure-trove of knowledge and wisdom.
+
+Unfortunately, the tech industry is filled with intelligent adolescents, who make up in confidence what they lack in maturity and are too easily able to find capital partners to bankroll the creation of a company out of what should have been a successful solopreneurship. Every once in a while, a success story will emerge - a Facebook, for example. But the more common story is one where a talented individual who, with the high expectations of other people's money, takes on a role in which they are woefully unqualified, pulls together a number of individuals who then become dependent on that person for their own financial well-being, and navigates the role as best he or she is able. The smart ones will have enough humility to actively recruit an executive with the skills needed to build a successful company. The others will either bump along util their board (the "other people's money folks") replaces them with an actual executive or until the company fails (the latter is typically preceded by the former - usually too late).
+
+I don't want to be all cynical in this post as I think that there are some real things that we can do in order to increase the number of sustainable, generational tech companies and in-so-doing, help mature the industry as a whole. Here's a short list to start with.
+
+1. Technologists who build a cool product should consider running at as a solopreneurship for as long as humanly possible. Contract out every other function until there's a clear reason for a company to exist - and those conditions are bigger than the one product that you've created.
+2. Founders should think twice before assuming an executive role in their own companies. It is a role that you're likely not qualified for, and equally likely a role that you won't enjoy. You don't need the title to have the same number on the cap table - and the folks who are impressed with a title aren't the kind of folks you should be trying to impress in the first place.
+3. If backing a company with less mature founders, VCs should place requirements on those founders in order to hold executive management roles in the company - an example requirement may be an executive coach. While this kind of requirement would carry a monetary cost, that cost would be far less than the loss of investment as a result of a company collapse or a multiyear wandering through the [land of the living dead](http://www.daniellemorrill.com/2013/03/zombie-startups/).
+
+Above all, leaders at all levels of an organization - but especially executive leaders - need to be able to approach their roles from a place of humility. At the end of the day, your role in the organization is not for the fancy title, and it's not for the row on the cap table or the salary. Your role is to build a healthy business that repeatedly transform market inputs into customer and shareholder value - and no other role in the organization is going to do that.
