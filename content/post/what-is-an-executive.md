@@ -2,7 +2,7 @@
 title: "What is an Executive?"
 date: 2023-08-10
 author: "Howard"
-draft: true
+draft: false
 description: "An executive is not a level - it's a unique role with its own types of challenges and requiring its own set of skills. Leaders ignore that to their own and everyone else's peril."
 image: ""
 tags: ["leadership"]
@@ -11,7 +11,7 @@ URL: "/2023/08/10/what-is-an-executive/"
 
 If you're at all like me, you have on occasion scanned upwards on the proverbial organizational chart and muttered something to the effect of, "those good-for-nothing idiots have no clue what they're doing." I get it. A large chunk of my career has been spent in the trenches of executing technology projects within large companies where there has been a good bit of distance between where I sat and the top of that pyramid. As my career has progressed, however, I've moved up that org chart and as a result been able to see those top roles - the executive roles - up close. Those experiences have left me with this one key takeaway:
 
-**An executive is not a level - it's a unique role with its own types of challenges and requiring its own set of skills.**
+**An executive is not a level in the sense of a "extra-extra-senior <role>" - it's a unique role with its own types of challenges and requiring its own set of skills.**
 
 Seeing this took me quite a bit longer than I would like to admit. When you're a passionate developer, it's easy to look at the entire company along with the leadership and quip, "if the company were run by developers, we would be so much better off." Another such complaint that I've arrogantly made (thankfully when I was much younger) went something like this: "If we just focused on building an awesome product (translation: awesome code/architecture/etc.) we wouldn't need to have all of these other functions because customers would just naturally **have** to have our amazing software!"
 
@@ -33,7 +33,7 @@ Unfortunately, most organizations struggle to get to this place of maturity. Why
 
 From what I've seen over the last several years, the answer lies in the problem statement: "maturity". Unlike writing code, the skills required to build high-functioning organizations and [actual] growing businesses are not those that can cultivated through books and leetcode. They require a non-trivial amount of time, effort, mistakes, self-reflection, and coaching to develop. Historically, those kinds of growth opportunities have been provided by larger companies who have existed through multiple cycles of markets and economies. In my view, even the most inept Fortune 100 CEO is a walking treasure-trove of knowledge and wisdom.
 
-Unfortunately, the tech industry is filled with intelligent adolescents, who make up in confidence what they lack in maturity and are too easily able to find capital partners to bankroll the creation of a company out of what should have been a successful solopreneurship. Every once in a while, a success story will emerge - a Facebook, for example. But the more common story is one where a talented individual who, with the high expectations of other people's money, takes on a role in which they are woefully unqualified, pulls together a number of individuals who then become dependent on that person for their own financial well-being, and navigates the role as best he or she is able. The smart ones will have enough humility to actively recruit an executive with the skills needed to build a successful company. The others will either bump along util their board (the "other people's money folks") replaces them with an actual executive or until the company fails (the latter is typically preceded by the former - usually too late).
+Unfortunately, the tech industry is filled with intelligent adolescents, who make up in confidence what they lack in maturity and are too easily able to find capital partners to bankroll the creation of a company out of what should have been a successful solopreneurship. Every once in a while, a success story will emerge - a Facebook, for example. But the more common story is one where a talented individual who, with the high expectations of other people's money, takes on a role in which they are woefully unqualified, pulls together a number of individuals who then become dependent on that person for their own financial well-being, and navigates the role as best he or she is able. The smart ones will have enough humility to actively recruit an executive with the skills needed to build a successful company. The others will either bump along until their board (the "other people's money folks") replaces them with an actual executive or until the company fails (the latter is typically preceded by the former - usually too late).
 
 I don't want to be all cynical in this post as I think that there are some real things that we can do in order to increase the number of sustainable, generational tech companies and in-so-doing, help mature the industry as a whole. Here's a short list to start with.
 
