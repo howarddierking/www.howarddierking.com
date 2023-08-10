@@ -11,7 +11,7 @@ URL: "/2023/08/10/what-is-an-executive/"
 
 If you're at all like me, you have on occasion scanned upwards on the proverbial organizational chart and muttered something to the effect of, "those good-for-nothing idiots have no clue what they're doing." I get it. A large chunk of my career has been spent in the trenches of executing technology projects within large companies where there has been a good bit of distance between where I sat and the top of that pyramid. As my career has progressed, however, I've moved up that org chart and as a result been able to see those top roles - the executive roles - up close. Those experiences have left me with this one key takeaway:
 
-**An executive is not a level in the sense of a "extra-extra-senior <role>" - it's a unique role with its own types of challenges and requiring its own set of skills.**
+**An executive is not a level in the sense of a "extra-extra-senior" - it's a unique role with its own types of challenges and requiring its own set of skills.**
 
 Seeing this took me quite a bit longer than I would like to admit. When you're a passionate developer, it's easy to look at the entire company along with the leadership and quip, "if the company were run by developers, we would be so much better off." Another such complaint that I've arrogantly made (thankfully when I was much younger) went something like this: "If we just focused on building an awesome product (translation: awesome code/architecture/etc.) we wouldn't need to have all of these other functions because customers would just naturally **have** to have our amazing software!"
 
